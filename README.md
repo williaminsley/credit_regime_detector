@@ -87,7 +87,8 @@ Example output from a single run:
 
 ## Credit Stress Regime Visualisation
 
-![Credit Stress Regime](outputs/stress_indicator.png)
+![Credit Stress Regime](docs/stress_indicator.png)
+*Binary credit stress indicator highlighting periods of HY underperformance and elevated cross-asset risk (e.g. COVID shock).*
 
 ---
 
