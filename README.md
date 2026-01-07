@@ -1,3 +1,5 @@
+[![CI](https://github.com/williaminsley/credit_regime_detector/actions/workflows/ci.yml/badge.svg)](https://github.com/williaminsley/credit_regime_detector/actions)
+
 # Credit Regime Detector
 
 A production-style Python project that detects **credit stress regimes** using transparent, desk-aligned signals and evaluates a simple **credit-quality tilt strategy**.
@@ -82,6 +84,10 @@ Example output from a single run:
 | Sharpe Ratio  | -0.10  |
 
 > **Note:** Results are intentionally **not optimised** and are presented to illustrate pipeline behaviour rather than investment performance.
+
+## Credit Stress Regime Visualisation
+
+![Credit Stress Regime](outputs/stress_indicator.png)
 
 ---
 

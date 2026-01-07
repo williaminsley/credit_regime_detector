@@ -4,6 +4,7 @@
 # Outputs
 outputs/
 outputs/**
+outputs/cache/
 
 # Cache
 __pycache__/
