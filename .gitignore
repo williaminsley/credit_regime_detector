@@ -1,6 +1,13 @@
+# Virtual env
 .venv/
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.DS_Store
+
+# Outputs
 outputs/
+outputs/**
+
+# Cache
+__pycache__/
+.pytest_cache/
+
+# OS
+.DS_Store
